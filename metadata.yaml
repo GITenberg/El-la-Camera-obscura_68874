@@ -1,0 +1,30 @@
+_repo: El-la-Camera-obscura_68874
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hildebrandt, A. (Alfred)
+    alias: Hildebrandt, Alfred
+    birthdate: 1870
+    deathdate: 1949
+    gutenberg_agent_id: '3747'
+    url: http://www.gutenberg.org/2009/agents/3747
+description: ''
+gutenberg_issued: '2022-08-30'
+identifiers:
+  gutenberg: '68874'
+language: eo
+pgterms:marc904: https://dlibra.kul.pl/dlibra/publication/51934/
+pgterms:marc905: 20210818222810author
+pgterms:marc906: '1923'
+pgterms:marc907: de
+production_note: Andrew Sly, Miroslav Malovec and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (his file was produced from images generously made
+  available by Biblioteka Cyfrowa KUL.)
+publication_note: Germany :Ferdinand Hirt & Sohn,1923.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: El la "Camera obscura"
+url: http://www.gutenberg.org/ebooks/68874
